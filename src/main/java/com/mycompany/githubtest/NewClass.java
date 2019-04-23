@@ -12,5 +12,6 @@ package com.mycompany.githubtest;
 public class NewClass {
     //hey
     private String hey = "Hey";
-    private String hey1 = "Hey1";
+    private String hey3 = "Hey3";
+    private String hey4 = "Hey4";
 }
