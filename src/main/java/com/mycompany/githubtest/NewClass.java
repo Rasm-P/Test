@@ -11,4 +11,5 @@ package com.mycompany.githubtest;
  */
 public class NewClass {
     //hey
+    private String hey = "Hey";
 }
